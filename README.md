@@ -34,7 +34,7 @@
       </a>
      <br>
     <!--  이메일 뱃지  -->
-     <a href="https://velog.io/@hyukfr0nt" target="_blank">
+     <a href="mailto:devhyukim@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/이메일 바로가기-배경색?style=social&logo=Gmail&logoColor=#000"/>
       </a>
  </div>
