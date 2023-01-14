@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
    </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
-    <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
+    <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
   </div>
    
   
