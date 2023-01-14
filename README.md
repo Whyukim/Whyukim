@@ -2,9 +2,12 @@
 
 
 <div>
-<h3>🐣frontEnd Hyuk🐥</h3>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
+  
+<h3>🐣frontEnd Hyuk🐥</h3>
+  <hr />
+  
   
 </div>
 </div>
