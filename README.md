@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&fontAlignY=40&text=React%20/%20JavaScript%20/%20TypeScript&fontSize=55)
 
-<div align="center">
+<div>
  
- <div float="left">
+ <div alihn="left">
  🍀frontEnd Hyuk🍀
   
   <hr>
