@@ -17,18 +17,21 @@
   </h1>
  
   <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://velog.io/@seondal">
-   <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
-  </a>
-  <a style="margin-bottom: 2px;" href="https://velog.io/@hyukfr0nt" target="_blank">
-   <img src="https://img.shields.io/badge/https://velog.io/@hyukfr0nt.-배경색?style=social&logo=Velog&logoColor=#000"/>
-  </a>
+   <a href="https://velog.io/@seondal">
+    <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
+   </a>
+   <a style="margin-bottom: 2px;" href="https://velog.io/@hyukfr0nt" target="_blank">
+    <img src="https://img.shields.io/badge/https://velog.io/@hyukfr0nt.-배경색?style=social&logo=Velog&logoColor=#000"/>
+   </a>
   </div>
   
   <br/>
     
-  <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80">
+  <a href="https://www.notion.so/27851973de6342ce855864480402da43">
     <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
+  </a>
+  <a style="margin-bottom: 2px;" href="https://velog.io/@hyukfr0nt" target="_blank">
+   www.naver.com
   </a>
 </div>
 
