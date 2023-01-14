@@ -37,7 +37,9 @@
     <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
    </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
+    
     [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
+    
    </a>
   </div>
     
