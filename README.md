@@ -6,7 +6,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true"/>
  
  <!-- 타이틀  -->
- <h3>🍀frontEnd Hyuk🍀</h3>
+ <h3>frontEnd Hyuk</h3>
  
  
  <!-- 깃, 알고리즘 뱃지  -->
