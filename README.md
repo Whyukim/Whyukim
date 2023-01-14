@@ -16,12 +16,14 @@
   <a />
   </h1>
  
+  <div style="display: flex; justify-content: center;">
   <a href="https://velog.io/@seondal">
     <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
   <a href="https://velog.io/@seondal">
    www.naver.com
   </a>
+  </div>
   
   <br/>
     
