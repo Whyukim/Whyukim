@@ -48,7 +48,7 @@
 
  
  <!-- git Stats  -->
- <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim"/>
+ <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim"/>
  
  <!-- git Stats  -->
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true"/>
