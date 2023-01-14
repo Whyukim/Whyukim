@@ -38,7 +38,7 @@
    </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     
-    [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
+    [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=www.naver.com)](www.naver.com)
     
    </a>
   </div>
