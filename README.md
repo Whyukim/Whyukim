@@ -27,7 +27,10 @@
    </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/-배경색?style=social&logo=Velog&logoColor=#000"/>
-    바로가기
+    <p>바로가기</p>
+    <h2>바로가기</h2>
+    <div>바로가기</div>
+    <span>바로가기</span>
    </a>
   </div>
   
