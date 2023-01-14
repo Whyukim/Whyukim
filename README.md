@@ -26,11 +26,7 @@
     <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
    </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
-    <img src="https://img.shields.io/badge/-배경색?style=social&logo=Velog&logoColor=#000"/>
-    > 바로가기
-    <p>바로가기</p>
-   </a>
-    <p>바로가기</p>
+    <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
   </div>
   
   <br/>
