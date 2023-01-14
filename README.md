@@ -17,7 +17,7 @@
  
  <!-- 스킬트리  -->
  <h1>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-E34F26?style=flat-square&logo=react&logoColor=white"/>
 
   <a href="https://solved.ac/whkakrkr">
    <img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr" />
