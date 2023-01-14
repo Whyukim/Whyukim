@@ -48,7 +48,7 @@
 
  
  <!-- git Stats  -->
- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight"/>
+ <img align="left" width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim"/>
  <!-- git Stats  -->
- <img align="left" width="45%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim"/>
+ <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight"/>
   
