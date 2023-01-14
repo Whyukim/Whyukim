@@ -20,8 +20,8 @@
   <a href="https://velog.io/@seondal">
     <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
-  <a href="https://velog.io/@seondal">
-   www.naver.com
+ <a href="https://velog.io/@hyukfr0nt" target="_blank">
+  <img src="https://img.shields.io/badge/https://velog.io/@hyukfr0nt.-배경색?style=social&logo=Velog&logoColor=#000"/>
   </a>
   </div>
   
