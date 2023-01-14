@@ -22,16 +22,10 @@
  
  <!--  벨로그 뱃지  -->
 <div style="display: flex; justify-content: center; align-items: center;">
-   <a href="https://velog.io/@seondal">
-    <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
-   </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
   </div>
   <!--  노션 뱃지  -->
-   <a href="https://velog.io/@seondal">
-    <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
-   </a>
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
   </div>
