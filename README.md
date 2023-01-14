@@ -7,9 +7,11 @@
 <p>소셜로그인, 유효성검사, 아이디/비밀번호 찾기를 할 수 있어요.</p>
 <h4>• 회원가입 페이지</h4>
 <p>주소검색, 휴대폰/이메일 인증을 할수 있어요.</p>
-</div>
-</div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
+  
+</div>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
 <br />
