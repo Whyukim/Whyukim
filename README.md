@@ -24,19 +24,16 @@
 <div style="display: flex; justify-content: center; align-items: center;">
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
-  </div>
+    </a>
   <!--  노션 뱃지  -->
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
-  </div>
+    </a>
   <!--  이메일 뱃지  -->
-  <!--  노션 뱃지  -->
-   <a href="https://velog.io/@hyukfr0nt" target="_blank">
-    <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
-  </div>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
    <img src="https://img.shields.io/badge/이메일 바로가기-배경색?style=social&logo=Gmail&logoColor=#000"/>
   </a>
+ 
 </div>
 
  <br />
