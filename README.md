@@ -48,12 +48,7 @@
 
  
  <!-- git Stats  -->
- <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim"/>
- 
+ <img align="right" width="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight"/>
  <!-- git Stats  -->
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight"/>
-  
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim)](https://solved.ac/devhyukim)
+ <img align="left" width="50" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyukim"/>
   
