@@ -14,13 +14,13 @@
 <br />
 
 <div>
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" width="45%" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true&width=45%)
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-    <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" /></a>
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" /></a>
 
 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
