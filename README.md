@@ -2,8 +2,18 @@
 
 <div style="display: flex; flex-direction: row;">
  
- <div width="45%">
-   ### 🍀frontEnd Hyuk🍀
+ <div width="45">
+   
+ </div>
+  
+ <img width="40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
+      
+</div>
+
+
+<div align="center">
+ 
+ ### 🍀frontEnd Hyuk🍀
   
   ---
   
@@ -26,18 +36,8 @@
   <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80">
     <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
   </a>
- </div>
   
  <img width="40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
-      
-</div>
-
-
-<div align="center">
-  
-      <div aign="right">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
-      </div>
   
 
   
