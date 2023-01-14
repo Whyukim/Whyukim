@@ -9,7 +9,7 @@
  <h3>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   🖐I'm Hyuk 
-  <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835">
+  <a href="https://www.notion.so/27851973de6342ce855864480402da43">
    <img src="https://img.shields.io/badge/Introduction-000?style=socail&logoColor=fff" />
   </a>
  </h3>
@@ -29,7 +29,7 @@
       </a>
     <br>
     <!--  노션 뱃지  -->
-     <a href="https://velog.io/@hyukfr0nt" target="_blank">
+     <a href="https://www.notion.so/27851973de6342ce855864480402da43" target="_blank">
       <img src="https://img.shields.io/badge/프로젝트 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
       </a>
      <br>
