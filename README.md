@@ -36,6 +36,14 @@
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
   </div>
+  <!--  gmail 뱃지  -->
+  <div style="display: flex; justify-content: center; align-items: center;">
+   <a href="https://velog.io/@seondal">
+    <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=Gmail&logoColor=black"/>
+   </a>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
+   <img src="https://img.shields.io/badge/블로그-배경색?style=social&logo=Gmail&logoColor=#000"/>
+  </a>
 </div>
 
  <br />
@@ -47,13 +55,3 @@
  <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" /></a>
-
-
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-<a href="https://velog.io/@hyukfr0nt" target="_blank"><img src="https://img.shields.io/badge/블로그-배경색?style=social&logo=Velog&logoColor=#000"/></a>
-<br />
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/블로그-배경색?style=social&logo=Notion&logoColor=#000"/></a>
-<br />
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/블로그-배경색?style=social&logo=Gmail&logoColor=#000"/></a>
