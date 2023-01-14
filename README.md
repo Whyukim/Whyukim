@@ -27,9 +27,7 @@
   
   <br/>
     
-  <a href="https://www.notion.so/27851973de6342ce855864480402da43">
     <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
-  </a>
   <a style="margin-bottom: 2px;" href="https://velog.io/@hyukfr0nt" target="_blank">
    www.naver.com
   </a>
