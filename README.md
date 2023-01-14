@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&fontAlignY=40&text=React%20/%20JavaScript%20/%20TypeScript&fontSize=55)
 
 <div style="display: flex; flex-direction: row;">
+ 
  <div width="45%">
    ### 🍀frontEnd Hyuk🍀
   
@@ -26,7 +27,9 @@
     <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
   </a>
  </div>
+  
  <img width="40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
+      
 </div>
 
 
