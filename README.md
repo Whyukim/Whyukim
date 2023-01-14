@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&fontAlignY=40&text=React%20/%20JavaScript%20/%20TypeScript&fontSize=55)
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
 </div>
 
 
