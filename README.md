@@ -39,7 +39,7 @@
   <!--  gmail 뱃지  -->
   <div style="display: flex; justify-content: center; align-items: center;">
    <a href="https://velog.io/@seondal">
-    <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=Gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/gmail-ffffff?style=flat-square&logo=gmail&logoColor=black"/>
    </a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
    <img src="https://img.shields.io/badge/블로그-배경색?style=social&logo=Gmail&logoColor=#000"/>
