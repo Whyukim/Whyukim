@@ -17,9 +17,7 @@
  
  <!-- 스킬트리  -->
  <h1>
-  <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835">
-   <img src="https://img.shields.io/badge/Hyuk%20소개-000?style=flat-square&logoColor=fff" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=react&logoColor=white"/>
 
   <a href="https://solved.ac/whkakrkr">
    <img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr" />
