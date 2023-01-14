@@ -1,21 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&fontAlignY=40&text=React%20/%20JavaScript%20/%20TypeScript&fontSize=55)
 
-<div style="display: flex; flex-direction: row;">
- 
- <div width="45">
-   
- </div>
-  
- <img width="40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
-      
-</div>
-
-
 <div align="center">
  
- ### 🍀frontEnd Hyuk🍀
+ <h3>🍀frontEnd Hyuk🍀</h3>
   
-  ---
+  <hr>
   
   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835">
     <img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white" />
