@@ -9,13 +9,7 @@
 <p>주소검색, 휴대폰/이메일 인증을 할수 있어요.</p>
 </div>
 </div>
-    
-<br />
-<br />
-
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
-<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true)
 <br />
