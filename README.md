@@ -9,7 +9,7 @@
  <h3>frontEnd Hyuk 
  
   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835">
-   <img src="https://img.shields.io/badge/Hyuk%20소개-000?style=flat-square&logoColor=fff" />
+   <img src="https://img.shields.io/badge/Hyuk%20소개-000?style=socail&logoColor=fff" />
   </a>
  </h3>
  
