@@ -17,12 +17,11 @@
  
  <!-- 스킬트리  -->
  <h1>
-  <img src="https://img.shields.io/badge/React-E34F26?style=flat-square&logo=react&logoColor=white"/>
-
-  <a href="https://solved.ac/whkakrkr">
-   <img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr" />
-  <a />
-  </h1>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typesctipt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+ </h1>
  
  <!--  벨로그 뱃지  -->
 <div>
