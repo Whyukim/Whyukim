@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </h1>
  
-<div>
+ <h1>
    <!--  벨로그 뱃지  -->
      <a href="https://velog.io/@hyukfr0nt" target="_blank">
       <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
@@ -32,14 +32,12 @@
      <a href="https://velog.io/@hyukfr0nt" target="_blank">
       <img src="https://img.shields.io/badge/프로젝트 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
       </a>
-  
      <br>
     <!--  이메일 뱃지  -->
     <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
      <img src="https://img.shields.io/badge/이메일 바로가기-배경색?style=social&logo=Gmail&logoColor=#000"/>
-    </a>
-  
-</div>
+      </a>
+ <div>
   
  <br />
 <hr />
