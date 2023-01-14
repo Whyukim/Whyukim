@@ -16,34 +16,32 @@
  
  
 <h1>
- 
-   <!--  벨로그 뱃지  -->
-   <a href="https://velog.io/@hyukfr0nt" target="_blank">
-    <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
-   </a>    
- 
-   <!--  벨로그 뱃지  -->
-   <a href="https://velog.io/@hyukfr0nt" target="_blank">
-    <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
-   </a>
-   <!--  벨로그 뱃지  -->
-   <a href="https://velog.io/@hyukfr0nt" target="_blank">
-    <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
-   </a>
- 
-</h1>
- 
-<div>
- <h3>skill</h3>
-  <!--  스킬  -->
+<!--  스킬  -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</div>
+</h1>
+ 
+ <div>
+   <!--  벨로그 뱃지  -->
+     <a href="https://velog.io/@hyukfr0nt" target="_blank">
+      <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
+      </a>
+    <br>
+    <!--  노션 뱃지  -->
+     <a href="https://velog.io/@hyukfr0nt" target="_blank">
+      <img src="https://img.shields.io/badge/프로젝트 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
+      </a>
+     <br>
+    <!--  이메일 뱃지  -->
+     <a href="https://velog.io/@hyukfr0nt" target="_blank">
+     <img src="https://img.shields.io/badge/이메일 바로가기-배경색?style=social&logo=Gmail&logoColor=#000"/>
+      </a>
+ </div>
   
-<br />
+ <br />
 <hr />
-<br />
+ <br />
 
  
  <!-- git Stats  -->
