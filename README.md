@@ -17,9 +17,7 @@
  
  <!-- 스킬트리  -->
  <h1>
- 
    <!--  벨로그 뱃지  -->
-  <div>
      <a href="https://velog.io/@hyukfr0nt" target="_blank">
       <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
       </a>
@@ -35,6 +33,7 @@
     </a>
  </h1>
  
+ <div>
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
