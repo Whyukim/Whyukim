@@ -28,10 +28,15 @@
    <a href="https://velog.io/@hyukfr0nt" target="_blank">
     <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
   </div>
-  
   <br/>
-    
-  <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
+  <div style="display: flex; justify-content: center; align-items: center;">
+   <a href="https://velog.io/@seondal">
+    <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/>
+   </a>
+   <a href="https://velog.io/@hyukfr0nt" target="_blank">
+    <img src="https://img.shields.io/badge/개인 블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
+  </div>
+   
   
   <a style="margin-bottom: 2px;" href="https://velog.io/@hyukfr0nt" target="_blank">
    www.naver.com
