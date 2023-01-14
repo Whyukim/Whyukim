@@ -4,7 +4,7 @@
  <div width="50%">
   ### 🍀frontEnd Hyuk🍀
  </div>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
+ <img width="40%" class="img" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true" />
 </div>
 
 
