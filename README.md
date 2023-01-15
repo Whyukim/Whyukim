@@ -4,7 +4,7 @@
  
  <!-- git Stats  -->
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=city_lights&show_icons=true"/>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=city_lights&show_icons=true"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true"/>
  
  
  <!-- 타이틀  -->
