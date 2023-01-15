@@ -3,7 +3,6 @@
 <div align="center">
  
  <!-- git Stats  -->
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=city_lights&show_icons=true"/>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Whyukim&theme=dark&show_icons=true"/>
  
  
@@ -48,7 +47,6 @@
  
  <!-- git Stats  -->
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyukim&layout=compact&theme=dark"/>
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyukim&layout=compact&theme=city_lights"/>
  <!-- git Stats  -->
  <img align="right" width="48%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyuk"/>
   
