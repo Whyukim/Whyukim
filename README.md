@@ -47,6 +47,7 @@
  
  <!-- git Stats  -->
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyukim&layout=compact&theme=dark"/>
- <!-- git Stats  -->
+ <!-- 백준  -->
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyuk)](https://solved.ac/devhyuk/)
  <img align="right" width="48%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyuk"/>
   
