@@ -48,5 +48,5 @@
  <!-- git Stats  -->
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyukim&layout=compact&theme=dark"/>
  <!-- 백준  -->
- <img align="right" width="48%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woo1038"/>
+ <img align="right" width="48%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyuk"/>
   
