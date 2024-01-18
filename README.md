@@ -25,15 +25,15 @@
  
  <div>
    <!--  벨로그 뱃지  -->
-     <a href="https://velog.io" target="_blank">
+<!--      <a href="https://velog.io" target="_blank">
       <img src="https://img.shields.io/badge/블로그 바로가기-배경색?style=social&logo=Velog&logoColor=#000"/>
       </a>
-    <br>
+    <br> -->
     <!--  노션 뱃지  -->
-     <a href="https://www.notion.so/42aa6c1d35c84851b3c6e69afd975839?v=82c29994815346999a6516ee21c225b8" target="_blank">
+<!--      <a href="https://www.notion.so/42aa6c1d35c84851b3c6e69afd975839?v=82c29994815346999a6516ee21c225b8" target="_blank">
       <img src="https://img.shields.io/badge/프로젝트 바로가기-배경색?style=social&logo=Notion&logoColor=#000"/>
       </a>
-     <br>
+     <br> -->
     <!--  이메일 뱃지  -->
      <a href="mailto:devhyukim@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/이메일 바로가기-배경색?style=social&logo=Gmail&logoColor=#000"/>
