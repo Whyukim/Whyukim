@@ -49,4 +49,13 @@
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyukim&layout=compact&theme=dark"/>
  <!-- 백준  -->
  <img align="right" width="48%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyuk"/>
+
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Whyukim?pet-id=602011192814682140"
+    width="600"
+    height="120"
+  />
+</a>
   
