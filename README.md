@@ -50,6 +50,7 @@
  <!-- 백준  -->
  <img align="right" width="48%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devhyuk"/>
 
+<br />
   
 <a href="https://github.com/devxb/gitanimals">
   <img
